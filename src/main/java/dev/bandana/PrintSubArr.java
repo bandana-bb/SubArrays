@@ -89,7 +89,7 @@ public class PrintSubArr {
                 }
             }
         }
-        System.out.println("Brute Force Approach  ");
+        System.out.println("Brute Force Approach ---------------------");
         System.out.println("Smallest Lenth of SubArray Having min & max : " + minLenth);
 
 
